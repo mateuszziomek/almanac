@@ -10,4 +10,4 @@ The application has several features:
 In the project I have implemented MVP pattern, as well as some popular libraries:
 Android Support Libraries, ButterKnife, Dagger 2, Robospice, Jackson 2, Android Week View and Joda-Time.
 
-The full code is availabe on demand as it is stored on private Bitbucket account.
+The full code is availabe on demand as it is stored on a private Bitbucket account.
